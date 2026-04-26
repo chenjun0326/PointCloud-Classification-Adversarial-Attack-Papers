@@ -52,6 +52,11 @@
   ![CCF](https://img.shields.io/badge/CCF-B-green)
   ![中科院分区](https://img.shields.io/badge/中科院分区-2_区%20-important)
 
+- **[LoGA-Attack: Local geometry-aware adversarial attack on 3D point clouds](https://www.sciencedirect.com/science/article/pii/S0262885625004597)**  
+  ![Venue](https://img.shields.io/badge/IVC-2026-red) 
+  ![CCF](https://img.shields.io/badge/CCF-C-green) 
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)]( https://github.com/yuanjiachn/LoGA-Attack)
+
 ---
 
 ### 📅 2025
