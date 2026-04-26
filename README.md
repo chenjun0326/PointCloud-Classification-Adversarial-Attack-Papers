@@ -30,7 +30,11 @@
 
 - **[Generating Adversarial Events: A Motion-Aware Point Cloud Framework](https://arxiv.org/pdf/2602.08230)**  
   ![Venue](https://img.shields.io/badge/arXiv-2026-red) 
-  
+
+- **[Imperceptible Adversarial Attacks for 3D Point Clouds Using Dimension Features and Gaussian Kernel Perturbations](https://www.sciencedirect.com/science/article/abs/pii/S0957417426001533)**  
+  ![Venue](https://img.shields.io/badge/ESWA-2026-red) 
+  ![CCF](https://img.shields.io/badge/CCF-C-green)
+  ![中科院分区](https://img.shields.io/badge/中科院分区-1_区%20Top-important)
 
 ---
 
