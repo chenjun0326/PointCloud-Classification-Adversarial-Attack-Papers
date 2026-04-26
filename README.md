@@ -72,11 +72,10 @@
 
 ### 📅 2025
 
-- **[Rethinking Gradient-based Adversarial Attacks on Point Cloud Classification](这里填论文PDF链接)**  
-  ![Year](https://img.shields.io/badge/Year-2025-blue) 
-  ![Venue](https://img.shields.io/badge/arXiv-2025-9cf) 
-  ![CCF](https://img.shields.io/badge/CCF-A*-orange) 
-  [![Code](https://img.shields.io/badge/Code-GitHub-black)](这里填代码链接)
+- **[Towards a 3D Transfer-based Black-box Attack via Critical Feature Guidance](https://openaccess.thecvf.com/content/ICCV2025/papers/Pang_Towards_a_3D_Transfer-based_Black-box_Attack_via_Critical_Feature_Guidance_ICCV_2025_paper.pdf)**  
+  ![Venue](https://img.shields.io/badge/ICCV-2025-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green) 
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/AIASLab/CFG-ICCV2025)
 
 - **[3D Gaussian Splat Vulnerabilities](这里填论文PDF链接)**  
   ![Year](https://img.shields.io/badge/Year-2025-blue) 
