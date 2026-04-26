@@ -61,6 +61,9 @@
 - **[Rethinking Transferable Adversarial Attacks on Point Clouds from a Compact Subspace Perspective](https://arxiv.org/pdf/2601.23102)**  
   ![Venue](https://img.shields.io/badge/arXiv-2026-red)
 
+- **[Topo-ADV: Generating Topology-Driven Imperceptible Adversarial Point Clouds](https://arxiv.org/pdf/2604.09879)**  
+  ![Venue](https://img.shields.io/badge/arXiv-2026-red)
+
 ---
 
 ### 📅 2025
