@@ -10,7 +10,7 @@
 ### 📅 2026
 
 <details>
-<summary><b>2026 Papers (Click to Expand)</b></summary>
+<summary><b>CCF A</b></summary>
 
 - **[Less Is More: Sparse and Cooperative Perturbation for Point Cloud Attacks](https://ojs.aaai.org/index.php/AAAI/article/download/37903/41865)**  
   ![Venue](https://img.shields.io/badge/AAAI-2026-red) 
@@ -20,6 +20,8 @@
   ![Venue](https://img.shields.io/badge/TMM-2026-red) 
   ![CCF](https://img.shields.io/badge/CCF-A-green) 
   [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/ZOJunnn/C-FA)
+
+</details>
 
 - **[Rethinking Gradient-based Adversarial Attacks on Point Cloud Classification](https://arxiv.org/pdf/2505.21854)**  
   ![Venue](https://img.shields.io/badge/ICME-2026-red) 
@@ -70,8 +72,6 @@
 
 - **[Topo-ADV: Generating Topology-Driven Imperceptible Adversarial Point Clouds](https://arxiv.org/pdf/2604.09879)**  
   ![Venue](https://img.shields.io/badge/arXiv-2026-red)
-
-</details>
 
 ---
 
