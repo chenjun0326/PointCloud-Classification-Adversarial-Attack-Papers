@@ -222,7 +222,10 @@
 <details>
 <summary><b>CCF C</b></summary>
 
-
+- **[∊-Mesh Attack: A Surface-based Adversarial Point Cloud Attack for Facial Expression Recognition](https://arxiv.org/pdf/2403.06661)**  
+  ![Venue](https://img.shields.io/badge/FG-2026-red) 
+  ![CCF](https://img.shields.io/badge/CCF-C-green) 
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/batuceng/e-mesh-attack)
 
 </details>
 
