@@ -100,8 +100,7 @@
 
 ### 📅 2024
 
-- **[Manifold Constraints for Imperceptible Adversarial Attacks on Point Clouds](这里填论文PDF链接)**  
-  ![Year](https://img.shields.io/badge/Year-2024-blue) 
-  ![Venue](https://img.shields.io/badge/AAAI-2024-yellow) 
+- **[Hide in thicket: Generating imperceptible and rational adversarial perturbations on 3d point clouds](http://openaccess.thecvf.com/content/CVPR2024/papers/Lou_Hide_in_Thicket_Generating_Imperceptible_and_Rational_Adversarial_Perturbations_on_CVPR_2024_paper.pdf)**  
+  ![Venue](https://img.shields.io/badge/CVPR-2024-red) 
   ![CCF](https://img.shields.io/badge/CCF-A-green) 
-  [![Code](https://img.shields.io/badge/Code-GitHub-black)](这里填代码链接)
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/TRLou/HiT-ADV)
