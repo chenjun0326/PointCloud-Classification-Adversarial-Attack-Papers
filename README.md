@@ -72,7 +72,7 @@
   ![CCF](https://img.shields.io/badge/CCF-C-green) 
   [![Code](https://img.shields.io/badge/Code-GitHub-black)]( https://github.com/yuanjiachn/LoGA-Attack)
 
-<details>
+</details>
 
 <details>
 <summary><b>arXiv</b></summary>
@@ -86,7 +86,7 @@
 - **[Topo-ADV: Generating Topology-Driven Imperceptible Adversarial Point Clouds](https://arxiv.org/pdf/2604.09879)**  
   ![Venue](https://img.shields.io/badge/arXiv-2026-red)
 
-<details>
+</details>
 
 ---
 
