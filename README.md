@@ -95,6 +95,10 @@
   ![CCF](https://img.shields.io/badge/CCF-C-green)
   ![中科院分区](https://img.shields.io/badge/中科院分区-2_区%20-important)
 
+- **[Generating transferable adversarial point clouds via autoencoders for 3d object classification](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/cvi2.70008)**  
+  ![Venue](https://img.shields.io/badge/IET-CVI-2025-red) 
+  ![CCF](https://img.shields.io/badge/CCF-C-green)
+
 - **[Generating Adversarial Point Clouds Using Diffusion Model](https://arxiv.org/pdf/2507.21163)**  
   ![Venue](https://img.shields.io/badge/arXiv-2025-red)
 
