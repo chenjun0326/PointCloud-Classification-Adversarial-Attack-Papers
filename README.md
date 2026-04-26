@@ -23,9 +23,13 @@
   ![CCF](https://img.shields.io/badge/CCF-B-green) 
   [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/chenjun0326/WA_SubAttack) 
 
+- **[Universal 3D Point Cloud Attack Using Gaussian Distribution Modeling](https://ieeexplore.ieee.org/abstract/document/11460620)**  
+  ![Venue](https://img.shields.io/badge/ICASSP-2026-red) 
+  ![CCF](https://img.shields.io/badge/CCF-B-green)
+
 - **[Anchor Field Consistency for Imperceptible Adversarial Attacks on 3D Point Clouds](https://ieeexplore.ieee.org/abstract/document/11461663)**  
   ![Venue](https://img.shields.io/badge/ICASSP-2026-red) 
-  ![CCF](https://img.shields.io/badge/CCF-B-green) 
+  ![CCF](https://img.shields.io/badge/CCF-B-green)
 
 - **[Adversarial contribution-based perturbation for transferable attack on point cloud](https://www.sciencedirect.com/science/article/abs/pii/S0031320326004036)**  
   ![Venue](https://img.shields.io/badge/PR-2026-red) 
