@@ -82,6 +82,20 @@
   ![CCF](https://img.shields.io/badge/CCF-A-green) 
   [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/cognaclee/nopain)
 
+- **[Imperceptible Adversarial Attacks on Point Clouds Guided by Point-to-Surface Field](https://ieeexplore.ieee.org/abstract/document/10889589)**  
+  ![Venue](https://img.shields.io/badge/ICASSP-2025-red) 
+  ![CCF](https://img.shields.io/badge/CCF-B-green)
+
+- **[Imperceptible 3D Point Cloud Attacks on Lattice-based Barycentric Coordinates](https://ojs.aaai.org/index.php/AAAI/article/view/34294/36449)**  
+  ![Venue](https://img.shields.io/badge/AAAI-2025-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+
+- **[Generating Adversarial Point Clouds Using Diffusion Model](https://arxiv.org/pdf/2507.21163)**  
+  ![Venue](https://img.shields.io/badge/arXiv-2025-red)
+
+- **[Cage-Based Deformation for Transferable and Undefendable Point Cloud Attack](https://arxiv.org/pdf/2507.00690)**  
+  ![Venue](https://img.shields.io/badge/arXiv-2025-red)
+
 ---
 
 ### 📅 2024
