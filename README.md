@@ -159,15 +159,18 @@
   ![CCF](https://img.shields.io/badge/CCF-B-green)
 
 - **[Improving transferability of 3D adversarial attacks with scale and shear transformations](https://www.sciencedirect.com/science/article/abs/pii/S002002552501206X)**  
-  ![Venue](https://img.shields.io/badge/Information_Sciences-2026-red) 
+  ![Venue](https://img.shields.io/badge/Information_Sciences-2024-red) 
   ![CCF](https://img.shields.io/badge/CCF-B-green)
   ![中科院分区](https://img.shields.io/badge/中科院分区-2_区%20-important)
   [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/cuge1995/SS-attack)
 
 - **[Local aggressive and physically realizable adversarial attacks on 3D point cloud](https://www.sciencedirect.com/science/article/pii/S0167404823004492)**  
-  ![Venue](https://img.shields.io/badge/Computers_&_Security-2026-red) 
+  ![Venue](https://img.shields.io/badge/Computers_&_Security-2024-red) 
   ![CCF](https://img.shields.io/badge/CCF-B-green)
   ![中科院分区](https://img.shields.io/badge/中科院分区-2_区%20-important)
+
+- **[Hard-Label Black-Box Attacks on 3D Point Clouds](https://arxiv.org/pdf/2412.00404)**  
+  ![Venue](https://img.shields.io/badge/arXiv-2024-red)
 
 ---
 
