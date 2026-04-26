@@ -90,7 +90,7 @@
   ![Venue](https://img.shields.io/badge/ICASSP-2025-red) 
   ![CCF](https://img.shields.io/badge/CCF-B-green)
 
-  - **[HAMC: Hybrid Attacks with Multiple Constraints against Point Cloud Classification](https://ieeexplore.ieee.org/abstract/document/11202413)**  
+- **[HAMC: Hybrid Attacks with Multiple Constraints against Point Cloud Classification](https://ieeexplore.ieee.org/abstract/document/11202413)**  
   ![Venue](https://img.shields.io/badge/IOT-2025-red) 
   ![CCF](https://img.shields.io/badge/CCF-C-green)
   ![中科院分区](https://img.shields.io/badge/中科院分区-2_区%20-important)
