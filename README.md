@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> A curated collection of research papers focusing on adversarial attacks and defenses for **3D Point Cloud Classification**. This repository tracks state-of-the-art studies from top-tier venues (CVPR, ICCV, AAAI, etc.), covering white-box/black-box attacks, geometric perturbations, and robustness benchmarks.
+> A curated collection of research papers focusing on adversarial attacks for **3D Point Cloud Classification**. This repository tracks state-of-the-art studies from top-tier venues (CVPR, ICCV, AAAI, etc.), covering white-box/black-box attacks, geometric perturbations, and robustness benchmarks.
 
 ---
 
