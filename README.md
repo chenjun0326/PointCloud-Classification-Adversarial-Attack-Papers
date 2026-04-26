@@ -77,11 +77,10 @@
   ![CCF](https://img.shields.io/badge/CCF-A-green) 
   [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/AIASLab/CFG-ICCV2025)
 
-- **[3D Gaussian Splat Vulnerabilities](这里填论文PDF链接)**  
-  ![Year](https://img.shields.io/badge/Year-2025-blue) 
+- **[Nopain: No-box point cloud attack via optimal transport singular boundary](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_NoPain_No-box_Point_Cloud_Attack_via_Optimal_Transport_Singular_Boundary_CVPR_2025_paper.pdf)**  
   ![Venue](https://img.shields.io/badge/CVPR-2025-red) 
   ![CCF](https://img.shields.io/badge/CCF-A-green) 
-  [![Code](https://img.shields.io/badge/Code-GitHub-black)](这里填代码链接)
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/cognaclee/nopain)
 
 ---
 
