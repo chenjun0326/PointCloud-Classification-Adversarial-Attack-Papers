@@ -40,7 +40,7 @@
   ![Venue](https://img.shields.io/badge/arXiv-2026-red) 
 
 - **[Toward imperceptible 3D adversarial point clouds via gradient-guided optimization](https://www.sciencedirect.com/science/article/abs/pii/S002002552501206X)**  
-  ![Venue](https://img.shields.io/badge/Information Sciences-2026-red) 
+  ![Venue](https://img.shields.io/badge/Information_Sciences-2026-red) 
   ![CCF](https://img.shields.io/badge/CCF-B-green)
   ![中科院分区](https://img.shields.io/badge/中科院分区-2_区)
 
