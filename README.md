@@ -27,6 +27,9 @@
   ![Venue](https://img.shields.io/badge/PR-2026-red) 
   ![CCF](https://img.shields.io/badge/CCF-B-green)
   ![中科院分区](https://img.shields.io/badge/中科院分区-1_区%20Top-important)
+
+- **[Generating Adversarial Events: A Motion-Aware Point Cloud Framework](https://arxiv.org/pdf/2602.08230)**  
+  ![Venue](https://img.shields.io/badge/arXiv-2026-red) 
   
 
 ---
