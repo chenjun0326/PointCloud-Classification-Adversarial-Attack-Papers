@@ -114,6 +114,10 @@
 
 ### 📅 2024
 
+- **[Point cloud attacks in graph spectral domain: When 3d geometry meets graph signal processing](https://ieeexplore.ieee.org/abstract/document/10342779)**  
+  ![Venue](https://img.shields.io/badge/TPAMI-2024-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green) 
+
 - **[Hide in thicket: Generating imperceptible and rational adversarial perturbations on 3d point clouds](http://openaccess.thecvf.com/content/CVPR2024/papers/Lou_Hide_in_Thicket_Generating_Imperceptible_and_Rational_Adversarial_Perturbations_on_CVPR_2024_paper.pdf)**  
   ![Venue](https://img.shields.io/badge/CVPR-2024-red) 
   ![CCF](https://img.shields.io/badge/CCF-A-green) 
@@ -124,11 +128,20 @@
   ![CCF](https://img.shields.io/badge/CCF-A-green) 
   [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/curvature-invariant/curvature-invariant)
 
+- **[Symattack: Symmetry-aware imperceptible adversarial attacks on 3d point clouds](https://dl.acm.org/doi/pdf/10.1145/3664647.3681181)**  
+  ![Venue](https://img.shields.io/badge/ACM_MM-2024-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green) 
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/884489492/SymAttack)
+
 - **[Frequency-Aware GAN for Imperceptible Transfer Attack on 3D Point Clouds](https://dl.acm.org/doi/pdf/10.1145/3664647.3681105)**  
   ![Venue](https://img.shields.io/badge/ACM_MM-2024-red) 
   ![CCF](https://img.shields.io/badge/CCF-A-green)
 
 - **[Hiding Imperceptible Noise in Curvature-Aware Patches for 3D Point Cloud Attack](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04444.pdf)**  
+  ![Venue](https://img.shields.io/badge/ECCV-2024-red) 
+  ![CCF](https://img.shields.io/badge/CCF-B-green)
+
+- **[Transferable 3D adversarial shape completion using diffusion models](https://arxiv.org/pdf/2407.10077?)**  
   ![Venue](https://img.shields.io/badge/ECCV-2024-red) 
   ![CCF](https://img.shields.io/badge/CCF-B-green)
 
