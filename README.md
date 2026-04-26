@@ -206,6 +206,10 @@
   ![Venue](https://img.shields.io/badge/ECCV-2024-red) 
   ![CCF](https://img.shields.io/badge/CCF-B-green)
 
+- **[Flat: flux-aware imperceptible adversarial attacks on 3D point clouds](https://link.springer.com/chapter/10.1007/978-3-031-72658-3_12)**  
+  ![Venue](https://img.shields.io/badge/ECCV-2024-red) 
+  ![CCF](https://img.shields.io/badge/CCF-B-green)
+
 - **[Improving transferability of 3D adversarial attacks with scale and shear transformations](https://www.sciencedirect.com/science/article/abs/pii/S002002552501206X)**  
   ![Venue](https://img.shields.io/badge/Information_Sciences-2024-red) 
   ![CCF](https://img.shields.io/badge/CCF-B-green)
