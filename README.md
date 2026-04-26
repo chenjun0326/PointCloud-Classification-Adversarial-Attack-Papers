@@ -118,3 +118,8 @@
   ![Venue](https://img.shields.io/badge/CVPR-2024-red) 
   ![CCF](https://img.shields.io/badge/CCF-A-green) 
   [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/TRLou/HiT-ADV)
+
+- **[Curvature-Invariant Adversarial Attacks for 3D Point Clouds](https://ojs.aaai.org/index.php/AAAI/article/download/28542/29056)**  
+  ![Venue](https://img.shields.io/badge/AAAI-2024-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green) 
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/curvature-invariant/curvature-invariant)
