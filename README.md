@@ -250,6 +250,122 @@
 
 ### 📅 2023
 
+<details>
+<summary><b>CCF A</b></summary>
+
+</details>
+
+<details>
+<summary><b>CCF B</b></summary>
+  
 - **[Robust geometry-dependent attack for 3d point clouds](https://drive.google.com/file/d/1KGcnVSW9BTruLoHNAN9nyCtkVF1WXq7S/view)**  
   ![Venue](https://img.shields.io/badge/TMM-2023-red) 
   ![CCF](https://img.shields.io/badge/CCF-B-green)
+  
+</details>
+
+<details>
+<summary><b>CCF C</b></summary>
+
+</details>
+
+<details>
+<summary><b>arXiv</b></summary>
+
+</details>
+
+---
+
+### 📅 2022
+
+<details>
+<summary><b>CCF A</b></summary>
+
+</details>
+
+<details>
+<summary><b>CCF B</b></summary>
+
+</details>
+
+<details>
+<summary><b>CCF C</b></summary>
+
+</details>
+
+<details>
+<summary><b>arXiv</b></summary>
+
+</details>
+
+---
+
+### 📅 2021
+
+<details>
+<summary><b>CCF A</b></summary>
+
+</details>
+
+<details>
+<summary><b>CCF B</b></summary>
+
+</details>
+
+<details>
+<summary><b>CCF C</b></summary>
+
+</details>
+
+<details>
+<summary><b>arXiv</b></summary>
+
+</details>
+
+---
+
+### 📅 2020
+
+<details>
+<summary><b>CCF A</b></summary>
+
+</details>
+
+<details>
+<summary><b>CCF B</b></summary>
+
+</details>
+
+<details>
+<summary><b>CCF C</b></summary>
+
+</details>
+
+<details>
+<summary><b>arXiv</b></summary>
+
+</details>
+
+---
+
+### 📅 2019
+
+<details>
+<summary><b>CCF A</b></summary>
+
+</details>
+
+<details>
+<summary><b>CCF B</b></summary>
+
+</details>
+
+<details>
+<summary><b>CCF C</b></summary>
+
+</details>
+
+<details>
+<summary><b>arXiv</b></summary>
+
+</details>
