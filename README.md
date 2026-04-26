@@ -150,3 +150,8 @@
   ![CCF](https://img.shields.io/badge/CCF-B-green)
   ![中科院分区](https://img.shields.io/badge/中科院分区-2_区%20-important)
   [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/cuge1995/SS-attack)
+
+- **[Local aggressive and physically realizable adversarial attacks on 3D point cloud](https://www.sciencedirect.com/science/article/pii/S0167404823004492)**  
+  ![Venue](https://img.shields.io/badge/Computers_&_Security-2026-red) 
+  ![CCF](https://img.shields.io/badge/CCF-B-green)
+  ![中科院分区](https://img.shields.io/badge/中科院分区-2_区%20-important)
