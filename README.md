@@ -18,6 +18,11 @@
   ![CCF](https://img.shields.io/badge/CCF-A-green) 
   [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/ZOJunnn/C-FA)
 
+- **[Rethinking Gradient-based Adversarial Attacks on Point Cloud Classification](https://arxiv.org/pdf/2505.21854)**  
+  ![Venue](https://img.shields.io/badge/ICME-2026-red) 
+  ![CCF](https://img.shields.io/badge/CCF-B-green) 
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/chenjun0326/WA_SubAttack)
+
 ---
 
 ### 📅 2025
