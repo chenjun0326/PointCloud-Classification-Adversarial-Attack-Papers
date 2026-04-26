@@ -154,6 +154,9 @@
 
 ### 📅 2024
 
+<details>
+<summary><b>CCF A</b></summary>
+
 - **[Point cloud attacks in graph spectral domain: When 3d geometry meets graph signal processing](https://ieeexplore.ieee.org/abstract/document/10342779)**  
   ![Venue](https://img.shields.io/badge/TPAMI-2024-red) 
   ![CCF](https://img.shields.io/badge/CCF-A-green)
@@ -190,6 +193,11 @@
   ![Venue](https://img.shields.io/badge/ACM_MM-2024-red) 
   ![CCF](https://img.shields.io/badge/CCF-A-green)
 
+</details>
+
+<details>
+<summary><b>CCF B</b></summary>
+
 - **[Hiding Imperceptible Noise in Curvature-Aware Patches for 3D Point Cloud Attack](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04444.pdf)**  
   ![Venue](https://img.shields.io/badge/ECCV-2024-red) 
   ![CCF](https://img.shields.io/badge/CCF-B-green)
@@ -209,8 +217,22 @@
   ![CCF](https://img.shields.io/badge/CCF-B-green)
   ![中科院分区](https://img.shields.io/badge/中科院分区-2_区%20-important)
 
+</details>
+
+<details>
+<summary><b>CCF C</b></summary>
+
+
+
+</details>
+
+<details>
+<summary><b>arXiv</b></summary>
+
 - **[Hard-Label Black-Box Attacks on 3D Point Clouds](https://arxiv.org/pdf/2412.00404)**  
   ![Venue](https://img.shields.io/badge/arXiv-2024-red)
+
+</details>
 
 ---
 
