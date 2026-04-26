@@ -126,4 +126,14 @@
 
 - **[Frequency-Aware GAN for Imperceptible Transfer Attack on 3D Point Clouds](https://dl.acm.org/doi/pdf/10.1145/3664647.3681105)**  
   ![Venue](https://img.shields.io/badge/ACM_MM-2024-red) 
-  ![CCF](https://img.shields.io/badge/CCF-A-green) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+
+- **[Hiding Imperceptible Noise in Curvature-Aware Patches for 3D Point Cloud Attack](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04444.pdf)**  
+  ![Venue](https://img.shields.io/badge/ECCV-2024-red) 
+  ![CCF](https://img.shields.io/badge/CCF-B-green)
+
+- **[Improving transferability of 3D adversarial attacks with scale and shear transformations](https://www.sciencedirect.com/science/article/abs/pii/S002002552501206X)**  
+  ![Venue](https://img.shields.io/badge/Information_Sciences-2026-red) 
+  ![CCF](https://img.shields.io/badge/CCF-B-green)
+  ![中科院分区](https://img.shields.io/badge/中科院分区-2_区%20-important)
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/cuge1995/SS-attack)
