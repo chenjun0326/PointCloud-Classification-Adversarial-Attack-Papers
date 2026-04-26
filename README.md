@@ -21,7 +21,11 @@
 - **[Rethinking Gradient-based Adversarial Attacks on Point Cloud Classification](https://arxiv.org/pdf/2505.21854)**  
   ![Venue](https://img.shields.io/badge/ICME-2026-red) 
   ![CCF](https://img.shields.io/badge/CCF-B-green) 
-  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/chenjun0326/WA_SubAttack)
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/chenjun0326/WA_SubAttack) 
+
+- **[Anchor Field Consistency for Imperceptible Adversarial Attacks on 3D Point Clouds](https://ieeexplore.ieee.org/abstract/document/11461663)**  
+  ![Venue](https://img.shields.io/badge/ICASSP-2026-red) 
+  ![CCF](https://img.shields.io/badge/CCF-B-green) 
 
 - **[Adversarial contribution-based perturbation for transferable attack on point cloud](https://www.sciencedirect.com/science/article/abs/pii/S0031320326004036)**  
   ![Venue](https://img.shields.io/badge/PR-2026-red) 
