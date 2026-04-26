@@ -92,6 +92,9 @@
 
 ### 📅 2025
 
+<details>
+<summary><b>CCF A</b></summary>
+
 - **[Towards a 3D Transfer-based Black-box Attack via Critical Feature Guidance](https://openaccess.thecvf.com/content/ICCV2025/papers/Pang_Towards_a_3D_Transfer-based_Black-box_Attack_via_Critical_Feature_Guidance_ICCV_2025_paper.pdf)**  
   ![Venue](https://img.shields.io/badge/ICCV-2025-red) 
   ![CCF](https://img.shields.io/badge/CCF-A-green) 
@@ -106,9 +109,19 @@
   ![Venue](https://img.shields.io/badge/AAAI-2025-red) 
   ![CCF](https://img.shields.io/badge/CCF-A-green)
 
+</details>
+
+<details>
+<summary><b>CCF B</b></summary>
+
 - **[Imperceptible Adversarial Attacks on Point Clouds Guided by Point-to-Surface Field](https://ieeexplore.ieee.org/abstract/document/10889589)**  
   ![Venue](https://img.shields.io/badge/ICASSP-2025-red) 
   ![CCF](https://img.shields.io/badge/CCF-B-green)
+
+</details>
+
+<details>
+<summary><b>CCF C</b></summary>
 
 - **[HAMC: Hybrid Attacks with Multiple Constraints against Point Cloud Classification](https://ieeexplore.ieee.org/abstract/document/11202413)**  
   ![Venue](https://img.shields.io/badge/IOT-2025-red) 
@@ -124,11 +137,18 @@
   ![Venue](https://img.shields.io/badge/IET_CVI-2025-red) 
   ![CCF](https://img.shields.io/badge/CCF-C-green)
 
+</details>
+
+<details>
+<summary><b>arXiv</b></summary>
+
 - **[Generating Adversarial Point Clouds Using Diffusion Model](https://arxiv.org/pdf/2507.21163)**  
   ![Venue](https://img.shields.io/badge/arXiv-2025-red)
 
 - **[Cage-Based Deformation for Transferable and Undefendable Point Cloud Attack](https://arxiv.org/pdf/2507.00690)**  
   ![Venue](https://img.shields.io/badge/arXiv-2025-red)
+
+</details>
 
 ---
 
