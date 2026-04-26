@@ -36,6 +36,9 @@
   ![CCF](https://img.shields.io/badge/CCF-C-green)
   ![中科院分区](https://img.shields.io/badge/中科院分区-1_区%20Top-important)
 
+- **[Rethinking Transferable Adversarial Attacks on Point Clouds from a Compact Subspace Perspective](https://arxiv.org/pdf/2601.23102)**  
+  ![Venue](https://img.shields.io/badge/arXiv-2026-red) 
+
 ---
 
 ### 📅 2025
