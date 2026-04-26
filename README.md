@@ -31,6 +31,10 @@
   ![Venue](https://img.shields.io/badge/ICASSP-2026-red) 
   ![CCF](https://img.shields.io/badge/CCF-B-green)
 
+- **[Constrained Local Point Cloud Perturbations Using Adaptive Curvature for 3D Adversarial Attacks](https://ieeexplore.ieee.org/abstract/document/11463320)**  
+  ![Venue](https://img.shields.io/badge/ICASSP-2026-red) 
+  ![CCF](https://img.shields.io/badge/CCF-B-green)
+
 - **[Adversarial contribution-based perturbation for transferable attack on point cloud](https://www.sciencedirect.com/science/article/abs/pii/S0031320326004036)**  
   ![Venue](https://img.shields.io/badge/PR-2026-red) 
   ![CCF](https://img.shields.io/badge/CCF-B-green)
