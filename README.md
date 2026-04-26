@@ -23,6 +23,12 @@
   ![CCF](https://img.shields.io/badge/CCF-B-green) 
   [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/chenjun0326/WA_SubAttack)
 
+- **[Adversarial contribution-based perturbation for transferable attack on point cloud](https://www.sciencedirect.com/science/article/abs/pii/S0031320326004036)**  
+  ![Venue](https://img.shields.io/badge/PR-2026-red) 
+  ![CCF](https://img.shields.io/badge/CCF-B-green)
+  ![中科院分区](https://img.shields.io/badge/中科院分区-1_区%20Top-important)
+  
+
 ---
 
 ### 📅 2025
