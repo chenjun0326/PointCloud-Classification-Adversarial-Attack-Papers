@@ -123,3 +123,7 @@
   ![Venue](https://img.shields.io/badge/AAAI-2024-red) 
   ![CCF](https://img.shields.io/badge/CCF-A-green) 
   [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/curvature-invariant/curvature-invariant)
+
+- **[Frequency-Aware GAN for Imperceptible Transfer Attack on 3D Point Clouds](https://dl.acm.org/doi/pdf/10.1145/3664647.3681105)**  
+  ![Venue](https://img.shields.io/badge/ACM_MM-2024-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green) 
