@@ -5,6 +5,6 @@ A comprehensive list of papers on adversarial attacks targeting 3D point cloud c
 ##  2026
 
 - **[Good Can Sometimes be Bad: A Unified Attack against 3D Point Cloud Classifier by a Flexible Isotropic Resampling](这里填论文PDF链接)**
-   | CVPR(CCF A) | **[Code](这里填代码链接)**
+   | CVPR | **[Code](这里填代码链接)**
 
 ---
