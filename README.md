@@ -9,9 +9,12 @@
 
 ### 📅 2026
 
-- **[Good Can Sometimes be Bad: A Unified Attack against 3D Point Cloud Classifier by a Flexible Isotropic Resampling](这里填论文PDF链接)**  
-  ![Year](https://img.shields.io/badge/Year-2026-blue) 
-  ![Venue](https://img.shields.io/badge/CVPR-2026-red) 
+- **[Less Is More: Sparse and Cooperative Perturbation for Point Cloud Attacks](https://ojs.aaai.org/index.php/AAAI/article/download/37903/41865)**  
+  ![Venue](https://img.shields.io/badge/AAAI-2026-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green) 
+
+- **[Less Is More: Sparse and Cooperative Perturbation for Point Cloud Attacks](https://ojs.aaai.org/index.php/AAAI/article/download/37903/41865)**  
+  ![Venue](https://img.shields.io/badge/AAAI-2026-red) 
   ![CCF](https://img.shields.io/badge/CCF-A-green) 
   [![Code](https://img.shields.io/badge/Code-GitHub-black)](这里填代码链接)
 
