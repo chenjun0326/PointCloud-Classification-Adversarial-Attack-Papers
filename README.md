@@ -23,6 +23,9 @@
 
 </details>
 
+<details>
+<summary><b>CCF B</b></summary>
+
 - **[Rethinking Gradient-based Adversarial Attacks on Point Cloud Classification](https://arxiv.org/pdf/2505.21854)**  
   ![Venue](https://img.shields.io/badge/ICME-2026-red) 
   ![CCF](https://img.shields.io/badge/CCF-B-green) 
@@ -54,6 +57,11 @@
   ![CCF](https://img.shields.io/badge/CCF-B-green)
   ![中科院分区](https://img.shields.io/badge/中科院分区-2_区%20-important)
 
+</details>
+
+<details>
+<summary><b>CCF C</b></summary>
+
 - **[Imperceptible Adversarial Attacks for 3D Point Clouds Using Dimension Features and Gaussian Kernel Perturbations](https://www.sciencedirect.com/science/article/abs/pii/S0957417426001533)**  
   ![Venue](https://img.shields.io/badge/ESWA-2026-red) 
   ![CCF](https://img.shields.io/badge/CCF-C-green)
@@ -64,6 +72,11 @@
   ![CCF](https://img.shields.io/badge/CCF-C-green) 
   [![Code](https://img.shields.io/badge/Code-GitHub-black)]( https://github.com/yuanjiachn/LoGA-Attack)
 
+<details>
+
+<details>
+<summary><b>arXiv</b></summary>
+
 - **[Generating Adversarial Events: A Motion-Aware Point Cloud Framework](https://arxiv.org/pdf/2602.08230)**  
   ![Venue](https://img.shields.io/badge/arXiv-2026-red)
 
@@ -72,6 +85,8 @@
 
 - **[Topo-ADV: Generating Topology-Driven Imperceptible Adversarial Point Clouds](https://arxiv.org/pdf/2604.09879)**  
   ![Venue](https://img.shields.io/badge/arXiv-2026-red)
+
+<details>
 
 ---
 
