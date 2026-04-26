@@ -116,7 +116,12 @@
 
 - **[Point cloud attacks in graph spectral domain: When 3d geometry meets graph signal processing](https://ieeexplore.ieee.org/abstract/document/10342779)**  
   ![Venue](https://img.shields.io/badge/TPAMI-2024-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+
+- **[Toward availability attacks in 3d point clouds](https://arxiv.org/pdf/2407.11011)**  
+  ![Venue](https://img.shields.io/badge/ICML-2024-red) 
   ![CCF](https://img.shields.io/badge/CCF-A-green) 
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/hala64/fc-em)
 
 - **[Hide in thicket: Generating imperceptible and rational adversarial perturbations on 3d point clouds](http://openaccess.thecvf.com/content/CVPR2024/papers/Lou_Hide_in_Thicket_Generating_Imperceptible_and_Rational_Adversarial_Perturbations_on_CVPR_2024_paper.pdf)**  
   ![Venue](https://img.shields.io/badge/CVPR-2024-red) 
@@ -127,6 +132,14 @@
   ![Venue](https://img.shields.io/badge/AAAI-2024-red) 
   ![CCF](https://img.shields.io/badge/CCF-A-green) 
   [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/curvature-invariant/curvature-invariant)
+
+- **[Explicitly Perceiving and Preserving the Local Geometric Structures for 3D Point Cloud Attack](https://ojs.aaai.org/index.php/AAAI/article/view/28146/28294)**  
+  ![Venue](https://img.shields.io/badge/AAAI-2024-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+
+- **[Manifold Constraints for Imperceptible Adversarial Attacks on Point Clouds](https://ojs.aaai.org/index.php/AAAI/article/view/28318/28625)**  
+  ![Venue](https://img.shields.io/badge/AAAI-2024-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green) 
 
 - **[Symattack: Symmetry-aware imperceptible adversarial attacks on 3d point clouds](https://dl.acm.org/doi/pdf/10.1145/3664647.3681181)**  
   ![Venue](https://img.shields.io/badge/ACM_MM-2024-red) 
@@ -155,3 +168,11 @@
   ![Venue](https://img.shields.io/badge/Computers_&_Security-2026-red) 
   ![CCF](https://img.shields.io/badge/CCF-B-green)
   ![中科院分区](https://img.shields.io/badge/中科院分区-2_区%20-important)
+
+---
+
+### 📅 2023
+
+- **[Robust geometry-dependent attack for 3d point clouds](https://drive.google.com/file/d/1KGcnVSW9BTruLoHNAN9nyCtkVF1WXq7S/view)**  
+  ![Venue](https://img.shields.io/badge/TMM-2023-red) 
+  ![CCF](https://img.shields.io/badge/CCF-B-green)
