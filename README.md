@@ -452,20 +452,62 @@
 <details>
 <summary><b>CCF A</b></summary>
 
+- **[Geometry-Aware Generation of Adversarial Point Clouds](https://arxiv.org/pdf/1912.11171)**  
+  ![Venue](https://img.shields.io/badge/TPAMI-2020-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Yuxin-Wen/GeoA3)
+
+- **[Robust Adversarial Objects against Deep Learning Models](https://ojs.aaai.org/index.php/AAAI/article/download/5443/5299)**  
+  ![Venue](https://img.shields.io/badge/AAAI-2020-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/jinyier/ai_pointnet_attack)
+
+- **[Efficient Joint Gradient Based Attack Against SOR Defense for 3D Point Cloud Classification](https://dl.acm.org/doi/pdf/10.1145/3394171.3413875)**  
+  ![Venue](https://img.shields.io/badge/ACM_MM-2020-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/machengcheng2016/JGBA-pointcloud-attack)
+
+- **[On Isometry Robustness of Deep 3D Point Cloud Models under Adversarial Attacks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_On_Isometry_Robustness_of_Deep_3D_Point_Cloud_Models_Under_CVPR_2020_paper.pdf)**  
+  ![Venue](https://img.shields.io/badge/CVPR-2020-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/skywalker6174/3d-isometry-robust)
+
+- **[Lg-gan: Label guided adversarial network for flexible targeted attack of point cloud based deep networks](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_LG-GAN_Label_Guided_Adversarial_Network_for_Flexible_Targeted_Attack_of_CVPR_2020_paper.pdf)**  
+  ![Venue](https://img.shields.io/badge/CVPR-2020-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+
 </details>
 
 <details>
 <summary><b>CCF B</b></summary>
+
+- **[Advpc: Transferable adversarial perturbations on 3d point clouds](https://arxiv.org/pdf/1912.00461)**  
+  ![Venue](https://img.shields.io/badge/ECCV-2020-red) 
+  ![CCF](https://img.shields.io/badge/CCF-B-green)
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/ajhamdi/AdvPC)
+
+- **[Adversarial Shape Perturbations on 3D Point Clouds](https://arxiv.org/pdf/1908.06062)**  
+  ![Venue](https://img.shields.io/badge/ECCV-2020-red) 
+  ![CCF](https://img.shields.io/badge/CCF-B-green)
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Daniel-Liu-c0deb0t/Adversarialpoint-perturbations-on-3D-objects)
 
 </details>
 
 <details>
 <summary><b>CCF C</b></summary>
 
+- **None**  
+
 </details>
 
 <details>
 <summary><b>arXiv</b></summary>
+
+- **[Shapeadv: Generating shape-aware adversarial 3d point clouds](https://arxiv.org/pdf/2005.11626)**  
+  ![Venue](https://img.shields.io/badge/arXiv-2021-red)
+
+- **[Nudge attacks on point-cloud dnns](https://arxiv.org/pdf/2011.11637)**  
+  ![Venue](https://img.shields.io/badge/arXiv-2021-red) 
 
 </details>
 
