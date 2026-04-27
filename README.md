@@ -395,20 +395,53 @@
 <details>
 <summary><b>CCF A</b></summary>
 
+- **[Minimal Adversarial Examples for Deep Learning on 3D Point Clouds](http://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Minimal_Adversarial_Examples_for_Deep_Learning_on_3D_Point_Clouds_ICCV_2021_paper.pdf)**  
+  ![Venue](https://img.shields.io/badge/ICCV-2021-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+
+- **[Universal Spectral Adversarial Attacks for Deformable Shapes](http://openaccess.thecvf.com/content/CVPR2021/papers/Rampini_Universal_Spectral_Adversarial_Attacks_for_Deformable_Shapes_CVPR_2021_paper.pdf)**  
+  ![Venue](https://img.shields.io/badge/CVPR-2021-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+
+- **[3D-Adv: Black-Box Adversarial Attacks against Deep Learning Models through 3D Sensors](https://ieeexplore.ieee.org/abstract/document/9586275)**  
+  ![Venue](https://img.shields.io/badge/DAC-2021-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+
 </details>
 
 <details>
 <summary><b>CCF B</b></summary>
+
+- **[Towards Effective Adversarial Attack Against 3D Point Cloud Classification](https://ieeexplore.ieee.org/abstract/document/9428207)**  
+  ![Venue](https://img.shields.io/badge/ICME-2021-red) 
+  ![CCF](https://img.shields.io/badge/CCF-B-green)
 
 </details>
 
 <details>
 <summary><b>CCF C</b></summary>
 
+- **[Local aggressive adversarial attacks on 3d point cloud](https://proceedings.mlr.press/v157/sun21a/sun21a.pdf)**  
+  ![Venue](https://img.shields.io/badge/ACML-2021-red) 
+  ![CCF](https://img.shields.io/badge/CCF-C-green)
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/itailang/geometric_adv)
+
+- **[Geometric adversarial attacks and defenses on 3d point clouds](https://arxiv.org/pdf/2012.05657)**  
+  ![Venue](https://img.shields.io/badge/3DV-2021-red) 
+  ![CCF](https://img.shields.io/badge/CCF-C-green)
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Chenfeng1271/L3A)
+
+- **[Td-net: Topology destruction network for generating adversarial point cloud](https://ieeexplore.ieee.org/abstract/document/9506072/)**  
+  ![Venue](https://img.shields.io/badge/ICIP-2021-red) 
+  ![CCF](https://img.shields.io/badge/CCF-C-green)
+
 </details>
 
 <details>
 <summary><b>arXiv</b></summary>
+
+- **[Generating unrestricted 3D adversarial point clouds](https://arxiv.org/pdf/2111.08973)**  
+  ![Venue](https://img.shields.io/badge/arXiv-2021-red) 
 
 </details>
 
