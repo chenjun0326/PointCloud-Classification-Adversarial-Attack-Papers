@@ -126,7 +126,7 @@
 - **[HAMC: Hybrid Attacks with Multiple Constraints against Point Cloud Classification](https://ieeexplore.ieee.org/abstract/document/11202413)**  
   ![Venue](https://img.shields.io/badge/IOT-2025-red) 
   ![CCF](https://img.shields.io/badge/CCF-C-green)
-  ![中科院分区](https://img.shields.io/badge/中科院分区-2_区%20-important)
+  ![中科院分区](https://img.shields.io/badge/中科院分区-2_区%20Top-important)
 
 - **[Multi-model-based transferable and imperceptible 3D adversarial attack](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5311954)**  
   ![Venue](https://img.shields.io/badge/Neurocomputing-2025-red) 
@@ -320,20 +320,71 @@
 <details>
 <summary><b>CCF A</b></summary>
 
+- **[Imperceptible transfer attack and defense on 3d point cloud classification](https://arxiv.org/pdf/2111.10990)**  
+  ![Venue](https://img.shields.io/badge/TPAMI-2022-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+
+- **[Shape-invariant 3D Adversarial Point Clouds](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Shape-Invariant_3D_Adversarial_Point_Clouds_CVPR_2022_paper.pdf)**  
+  ![Venue](https://img.shields.io/badge/CVPR-2022-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/shikiw/SI-Adv)
+
+- **[Isometric 3d adversarial examples in the physical world](https://proceedings.neurips.cc/paper_files/paper/2022/file/7c818dd40651b420873af70b8a790e3f-Paper-Conference.pdf)**  
+  ![Venue](https://img.shields.io/badge/NeurIPS-2022-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+
+- **[Shape Prior Guided Attack Sparser Perturbations on 3D Point Clouds](https://ojs.aaai.org/index.php/AAAI/article/download/20802/20561)**  
+  ![Venue](https://img.shields.io/badge/AAAI-2022-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+
 </details>
 
 <details>
 <summary><b>CCF B</b></summary>
+
+- **[Exploring the Devil in Graph Spectral Domain for 3D Point Cloud Attacks](https://arxiv.org/pdf/2202.07261)**  
+  ![Venue](https://img.shields.io/badge/ECCV-2022-red) 
+  ![CCF](https://img.shields.io/badge/CCF-B-green)
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/WoodwindHu/GSDA)
+
+- **[D3AdvM: A direct 3D adversarial sample attack inside mesh data](https://www.sciencedirect.com/science/article/pii/S0167839622000589)**  
+  ![Venue](https://img.shields.io/badge/CAGD-2022-red) 
+  ![CCF](https://img.shields.io/badge/CCF-B-green)
 
 </details>
 
 <details>
 <summary><b>CCF C</b></summary>
 
+- **[Rethinking Perturbation Directions for Imperceptible Adversarial Attacks on Point Clouds](https://www.researchgate.net/profile/Keke-Tang/publication/365418934_Rethinking_Perturbation_Directions_for_Imperceptible_Adversarial_Attacks_on_Point_Clouds/links/650e4dddd5293c106cd54621/Rethinking-Perturbation-Directions-for-Imperceptible-Adversarial-Attacks-on-Point-Clouds.pdf)**  
+  ![Venue](https://img.shields.io/badge/IOT-2022-red) 
+  ![CCF](https://img.shields.io/badge/CCF-C-green)
+  ![中科院分区](https://img.shields.io/badge/中科院分区-2_区%20Top-important)
+
+- **[NormalAttack: Curvature‐Aware Shape Deformation along Normals for Imperceptible Point Cloud Attack](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2022/1186633)**  
+  ![Venue](https://img.shields.io/badge/SCN-2022-red) 
+  ![CCF](https://img.shields.io/badge/CCF-C-green)
+
+- **[LP-GAN: Learning perturbations based on generative adversarial networks for point cloud adversarial attacks](https://www.sciencedirect.com/science/article/pii/S0262885621002754)**  
+  ![Venue](https://img.shields.io/badge/IVC-2022-red) 
+  ![CCF](https://img.shields.io/badge/CCF-C-green)
+
 </details>
 
 <details>
 <summary><b>arXiv</b></summary>
+
+- **[Understanding key point cloud features for development three-dimensional adversarial attacks](https://arxiv.org/pdf/2210.14164)**  
+  ![Venue](https://img.shields.io/badge/arXiv-2022-red) 
+
+</details>
+
+<details>
+<summary><b>Other</b></summary>
+
+- **[Boosting 3d adversarial attacks with attacking on frequency](https://ieeexplore.ieee.org/iel7/6287639/6514899/09765977.pdf)**  
+  ![Venue](https://img.shields.io/badge/IEEE_Access-2022-red) 
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)]( https://github.com/code-roamer/AOF)
 
 </details>
 
