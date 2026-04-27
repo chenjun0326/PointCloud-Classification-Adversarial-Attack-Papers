@@ -258,6 +258,11 @@
   ![CCF](https://img.shields.io/badge/CCF-A-green)
   [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/HeBangYan/PF-Attack)
 
+- **[SAGA: Spectral adversarial geometric attack on 3D meshes](http://openaccess.thecvf.com/content/ICCV2023/papers/Stolik_SAGA_Spectral_Adversarial_Geometric_Attack_on_3D_Meshes_ICCV_2023_paper.pdf)**  
+  ![Venue](https://img.shields.io/badge/ICCV-2023-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/StolikTomer/SAGA)
+
 - **[3dhacker: Spectrum-based decision boundary generation for hard-label 3d point cloud attack](http://openaccess.thecvf.com/content/ICCV2023/papers/Tao_3DHacker_Spectrum-based_Decision_Boundary_Generation_for_Hard-label_3D_Point_Cloud_ICCV_2023_paper.pdf)**  
   ![Venue](https://img.shields.io/badge/ICCV-2023-red) 
   ![CCF](https://img.shields.io/badge/CCF-A-green)
@@ -275,6 +280,10 @@
   ![Venue](https://img.shields.io/badge/TMM-2023-red) 
   ![CCF](https://img.shields.io/badge/CCF-B-green)
 
+- **[SC-Net: Salient Point and Curvature Based Adversarial Point Cloud Generation Network](https://ieeexplore.ieee.org/abstract/document/10094878)**  
+  ![Venue](https://img.shields.io/badge/ICASSP-2023-red) 
+  ![CCF](https://img.shields.io/badge/CCF-B-green)
+
 - **[Adaptive local adversarial attacks on 3D point clouds](https://www.sciencedirect.com/science/article/pii/S003132032300523X)**  
   ![Venue](https://img.shields.io/badge/PR-2023-red) 
   ![CCF](https://img.shields.io/badge/CCF-B-green)
@@ -290,10 +299,17 @@
 <details>
 <summary><b>CCF C</b></summary>
 
+- **[A Physically Feasible Counter-Attack Method for Remote Sensing Imaging Point Clouds](https://link.springer.com/chapter/10.1007/978-981-99-8462-6_32)**  
+  ![Venue](https://img.shields.io/badge/PRCV-2023-red) 
+  ![CCF](https://img.shields.io/badge/CCF-C-green)
+
 </details>
 
 <details>
 <summary><b>arXiv</b></summary>
+
+- **[Adaptive local adversarial attacks on 3d point clouds for augmented reality](https://arxiv.org/pdf/2303.06641)**  
+  ![Venue](https://img.shields.io/badge/arXiv-2023-red)
 
 </details>
 
