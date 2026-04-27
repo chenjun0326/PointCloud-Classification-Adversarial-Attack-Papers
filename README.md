@@ -5,7 +5,7 @@
 
 ### ✨ Key Benefits
 
-- **Track Evolution (2019-2026):** Visualize the complete development history of point cloud adversarial attacks, from initial generation methods to advanced strategies and defense mechanisms.
+- **Track Evolution (2019-Present):** Visualize the complete development history of point cloud adversarial attacks, from initial generation methods to advanced strategies and defense mechanisms.
 - **Access State-of-the-Art:** Stay updated with the latest SOTA works up to **2026**, helping researchers quickly identify current performance ceilings and open challenges.
 - **Submission Guide:** Provides a clear roadmap of target venues, listing the top conferences (e.g., CVPR, ICCV, AAAI) and journals (e.g., TMM, TPAMI) suitable for point cloud security research.
 - **Efficient Survey:** Saves research time by offering a curated path from classic to modern papers, avoiding the noise of unstructured literature searches.
