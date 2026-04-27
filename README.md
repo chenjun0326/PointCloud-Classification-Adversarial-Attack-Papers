@@ -1,9 +1,14 @@
-#  Point Cloud Classification Adversarial Attack Papers
+![Awesome](https://awesome.re/badge-flat2.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+> A curated collection of research papers focusing on adversarial attacks for **3D Point Cloud Classification** from **2019 to 2026**. This repository systematically tracks the evolution of the field, ranging from early explorations to the latest State-of-the-Art (SOTA) studies presented at top-tier venues like CVPR, ICCV, AAAI, and TPAMI. It serves as a comprehensive guide to understanding the developmental trajectory of point cloud attacks and identifying key publication opportunities.
 
-> A curated collection of research papers focusing on adversarial attacks for **3D Point Cloud Classification**. This repository tracks state-of-the-art studies from CVPR, ICCV, AAAI, etc.
+### ✨ Key Benefits
+
+- **Track Evolution (2019-2026):** Visualize the complete development history of point cloud adversarial attacks, from initial generation methods to advanced strategies and defense mechanisms.
+- **Access State-of-the-Art:** Stay updated with the latest SOTA works up to **2026**, helping researchers quickly identify current performance ceilings and open challenges.
+- **Submission Guide:** Provides a clear roadmap of target venues, listing the top conferences (e.g., CVPR, ICCV, AAAI) and journals (e.g., TMM, TPAMI) suitable for point cloud security research.
+- **Efficient Survey:** Saves research time by offering a curated path from classic to modern papers, avoiding the noise of unstructured literature searches.
 
 ---
 
