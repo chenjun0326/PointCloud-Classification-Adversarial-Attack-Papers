@@ -518,19 +518,43 @@
 <details>
 <summary><b>CCF A</b></summary>
 
+- **[Generating 3d adversarial point clouds](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xiang_Generating_3D_Adversarial_Point_Clouds_CVPR_2019_paper.pdf)**  
+  ![Venue](https://img.shields.io/badge/CVPR-2019-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/xiangchong1/3d-adv-pc)
+
+- **[PointCloud Saliency Maps](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_PointCloud_Saliency_Maps_ICCV_2019_paper.pdf)**  
+  ![Venue](https://img.shields.io/badge/ICCV-2019-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/tianzheng4/PointCloud-Saliency-Maps)
+
+- **[Robustness of 3D Deep Learning in an Adversarial Setting](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wicker_Robustness_of_3D_Deep_Learning_in_an_Adversarial_Setting_CVPR_2019_paper.pdf)**  
+  ![Venue](https://img.shields.io/badge/CVPR-2019-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/matthewwicker/IterativeSalienceOcclusion)
+
 </details>
 
 <details>
 <summary><b>CCF B</b></summary>
+
+- **None**  
 
 </details>
 
 <details>
 <summary><b>CCF C</b></summary>
 
+- **[Extending Adversarial Attacks and Defenses to Deep 3D Point Cloud Classifiers](https://arxiv.org/pdf/1901.03006)**  
+  ![Venue](https://img.shields.io/badge/ICIP-2019-red) 
+  ![CCF](https://img.shields.io/badge/CCF-C-green)
+
 </details>
 
 <details>
 <summary><b>arXiv</b></summary>
+
+- **[Adversarial attack and defense on point sets](https://arxiv.org/pdf/1902.10899)**  
+  ![Venue](https://img.shields.io/badge/arXiv-2019-red) 
 
 </details>
