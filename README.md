@@ -253,6 +253,19 @@
 <details>
 <summary><b>CCF A</b></summary>
 
+- **[Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization](https://ojs.aaai.org/index.php/AAAI/article/view/25154/24926)**  
+  ![Venue](https://img.shields.io/badge/AAAI-2023-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+  [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/HeBangYan/PF-Attack)
+
+- **[3dhacker: Spectrum-based decision boundary generation for hard-label 3d point cloud attack](http://openaccess.thecvf.com/content/ICCV2023/papers/Tao_3DHacker_Spectrum-based_Decision_Boundary_Generation_for_Hard-label_3D_Point_Cloud_ICCV_2023_paper.pdf)**  
+  ![Venue](https://img.shields.io/badge/ICCV-2023-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+
+- **[Deep Manifold Attack on Point Clouds via Parameter Plane Stretching](https://ojs.aaai.org/index.php/AAAI/article/view/25338/25110)**  
+  ![Venue](https://img.shields.io/badge/AAAI-2023-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+
 </details>
 
 <details>
@@ -261,6 +274,16 @@
 - **[Robust geometry-dependent attack for 3d point clouds](https://drive.google.com/file/d/1KGcnVSW9BTruLoHNAN9nyCtkVF1WXq7S/view)**  
   ![Venue](https://img.shields.io/badge/TMM-2023-red) 
   ![CCF](https://img.shields.io/badge/CCF-B-green)
+
+- **[Adaptive local adversarial attacks on 3D point clouds](https://www.sciencedirect.com/science/article/pii/S003132032300523X)**  
+  ![Venue](https://img.shields.io/badge/PR-2023-red) 
+  ![CCF](https://img.shields.io/badge/CCF-B-green)
+  ![中科院分区](https://img.shields.io/badge/中科院分区-1_区%20Top-important)
+
+- **[3D adversarial attacks beyond point cloud](https://arxiv.org/pdf/2104.12146)**  
+  ![Venue](https://img.shields.io/badge/Information_Sciences-2023-red) 
+  ![CCF](https://img.shields.io/badge/CCF-B-green)
+  ![中科院分区](https://img.shields.io/badge/中科院分区-2_区%20-important)
   
 </details>
 
