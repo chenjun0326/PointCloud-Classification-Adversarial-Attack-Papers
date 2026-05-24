@@ -70,7 +70,12 @@
 - **[Imperceptible Adversarial Attacks for 3D Point Clouds Using Dimension Features and Gaussian Kernel Perturbations](https://www.sciencedirect.com/science/article/abs/pii/S0957417426001533)**  
   ![Venue](https://img.shields.io/badge/ESWA-2026-red) 
   ![CCF](https://img.shields.io/badge/CCF-C-green)
-  ![中科院分区](https://img.shields.io/badge/中科院分区-1_区%20Top-important) 
+  ![中科院分区](https://img.shields.io/badge/中科院分区-1_区%20Top-important)
+
+  - **[CMFA: Cross-model feature alignment for transferable 3D adversarial attacks](https://www.sciencedirect.com/science/article/abs/pii/S0925231226012774)**  
+  ![Venue](https://img.shields.io/badge/Neurocomputing-2026-red) 
+  ![CCF](https://img.shields.io/badge/CCF-C-green)
+  ![中科院分区](https://img.shields.io/badge/中科院分区-2_区) 
 
 - **[LoGA-Attack: Local geometry-aware adversarial attack on 3D point clouds](https://www.sciencedirect.com/science/article/pii/S0262885625004597)**  
   ![Venue](https://img.shields.io/badge/IVC-2026-red) 
