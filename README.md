@@ -17,6 +17,10 @@
 <details>
 <summary><b>CCF A</b></summary>
 
+- **[Hard-Label Black-Box Attacks on 3D Point Clouds](https://ieeexplore.ieee.org/abstract/document/11524078)**  
+  ![Venue](https://img.shields.io/badge/TDSC-2026-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+  
 - **[Less Is More: Sparse and Cooperative Perturbation for Point Cloud Attacks](https://ojs.aaai.org/index.php/AAAI/article/download/37903/41865)**  
   ![Venue](https://img.shields.io/badge/AAAI-2026-red) 
   ![CCF](https://img.shields.io/badge/CCF-A-green) 
