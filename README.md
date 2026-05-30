@@ -23,6 +23,10 @@
   
 - **[Less Is More: Sparse and Cooperative Perturbation for Point Cloud Attacks](https://ojs.aaai.org/index.php/AAAI/article/download/37903/41865)**  
   ![Venue](https://img.shields.io/badge/AAAI-2026-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+
+- **[Deformable 3D Point Cloud Perturbations using Cage-based Deformation for Semantic Consistency](https://ieeexplore.ieee.org/abstract/document/11534487)**  
+  ![Venue](https://img.shields.io/badge/TIFS-2026-red) 
   ![CCF](https://img.shields.io/badge/CCF-A-green) 
 
 - **[C-FA: Enhancing Transferability through Contrastive Learning and Feature Attention in Point Cloud Attacks](https://ieeexplore.ieee.org/abstract/document/11370425/)**  
