@@ -17,6 +17,10 @@
 <details>
 <summary><b>CCF A</b></summary>
 
+- **[Good Can Sometimes be Bad: A Unified Attack against 3D Point Cloud Classifier by a Flexible Isotropic Resampling](https://openaccess.thecvf.com/content/CVPR2026/papers/Fan_Good_Can_Sometimes_be_Bad_A_Unified_Attack_against_3D_CVPR_2026_paper.pdf)**  
+  ![Venue](https://img.shields.io/badge/CVPR-2026-red) 
+  ![CCF](https://img.shields.io/badge/CCF-A-green)
+
 - **[Hard-Label Black-Box Attacks on 3D Point Clouds](https://ieeexplore.ieee.org/abstract/document/11524078)**  
   ![Venue](https://img.shields.io/badge/TDSC-2026-red) 
   ![CCF](https://img.shields.io/badge/CCF-A-green)
